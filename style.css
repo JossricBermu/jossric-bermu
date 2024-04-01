@@ -1,7 +1,8 @@
-body{
-    text-align: center;
+#logo{
+    width: 100%;
 }
 
 p{
     font-size: 30px;
+    text-align: center;
 }
